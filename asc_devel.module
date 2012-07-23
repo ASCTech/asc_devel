@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the ASC Devel feature.
+ */
+
+include_once 'asc_devel.features.inc';
